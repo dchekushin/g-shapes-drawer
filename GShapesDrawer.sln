@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GShapesDrawer", "GShapesDrawer\GShapesDrawer.csproj", "{E08AE73E-048B-4CF2-B0B1-25792C0C69BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GShapesDrawer.Tests", "GShapesDrawer.Tests\GShapesDrawer.Tests.csproj", "{52DF91D2-F368-4555-9A2A-2EA1E65D8C73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E08AE73E-048B-4CF2-B0B1-25792C0C69BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E08AE73E-048B-4CF2-B0B1-25792C0C69BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E08AE73E-048B-4CF2-B0B1-25792C0C69BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E08AE73E-048B-4CF2-B0B1-25792C0C69BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52DF91D2-F368-4555-9A2A-2EA1E65D8C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DF91D2-F368-4555-9A2A-2EA1E65D8C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DF91D2-F368-4555-9A2A-2EA1E65D8C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DF91D2-F368-4555-9A2A-2EA1E65D8C73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
